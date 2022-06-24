@@ -1,0 +1,46 @@
+.hero > span {
+  font-size: 1.17em;
+  font-weight: 700;
+}
+
+.hero h1 {
+  text-align: center;
+}
+
+.hero h2 {
+  text-align: right;
+}
+
+h1 span,
+h2 span {
+  color: red;
+}
+
+.image {
+  text-align: center;
+}
+
+table {
+  /* box-shadow: 2px 2px 2px 2px hsla(0, 0%, 0%, 0.2); */
+  margin: 3rem;
+  font-family: sans-serif;
+  /* border-collapse: collapse; */
+}
+
+td {
+  padding: 2rem 5rem;
+  border: 1px solid #888;
+  text-align: center;
+}
+
+/* td[colspan] {
+  background-color: #888;
+} */
+
+.label-1 {
+  text-align: center;
+}
+
+input:focus {
+  background: #eaeaea;
+}
